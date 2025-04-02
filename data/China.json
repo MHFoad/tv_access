@@ -1,0 +1,39 @@
+{
+    "China": [
+      {
+        "question": "What is the capital of China?",
+        "options": ["Shanghai", "Beijing", "Guangzhou", "Shenzhen"],
+        "answer": "Beijing"
+      },
+      {
+        "question": "Which famous structure was built to protect China's northern border?",
+        "options": ["Great Wall", "Forbidden City", "Terracotta Army", "Grand Canal"],
+        "answer": "Great Wall"
+      },
+      {
+        "question": "What is China's most populated city?",
+        "options": ["Beijing", "Shanghai", "Chongqing", "Tianjin"],
+        "answer": "Chongqing"
+      },
+      {
+        "question": "Which animal is a national symbol of China?",
+        "options": ["Dragon", "Panda", "Tiger", "Phoenix"],
+        "answer": "Panda"
+      },
+      {
+        "question": "What is the longest river in China?",
+        "options": ["Yellow River", "Yangtze River", "Mekong River", "Pearl River"],
+        "answer": "Yangtze River"
+      },
+      {
+        "question": "Which ancient trade route connected China to Europe?",
+        "options": ["Tea Route", "Silk Road", "Spice Route", "Amber Road"],
+        "answer": "Silk Road"
+      },
+      {
+        "question": "What is China's official currency?",
+        "options": ["Yen", "Won", "Yuan", "Ringgit"],
+        "answer": "Yuan"
+      }
+    ]
+  }

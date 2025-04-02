@@ -1,0 +1,39 @@
+{
+    "Bhutan": [
+      {
+        "question": "What is the capital of Bhutan?",
+        "options": ["Thimphu", "Paro", "Punakha", "Wangdue Phodrang"],
+        "answer": "Thimphu"
+      },
+      {
+        "question": "What does Bhutan measure instead of GDP?",
+        "options": ["Gross National Happiness", "Gross National Product", "Gross Domestic Satisfaction", "Gross National Contentment"],
+        "answer": "Gross National Happiness"
+      },
+      {
+        "question": "What is Bhutan's famous monastery?",
+        "options": ["Tiger's Nest", "Golden Temple", "Potala Palace", "Shaolin"],
+        "answer": "Tiger's Nest"
+      },
+      {
+        "question": "What is Bhutan's environmental status?",
+        "options": ["Carbon-negative", "Carbon-neutral", "High pollution", "No concern"],
+        "answer": "Carbon-negative"
+      },
+      {
+        "question": "When did Bhutan get television?",
+        "options": ["1969", "1979", "1989", "1999"],
+        "answer": "1999"
+      },
+      {
+        "question": "What is banned nationwide in Bhutan?",
+        "options": ["Plastic bags", "Cars", "Electricity", "Schools"],
+        "answer": "Plastic bags"
+      },
+      {
+        "question": "How does Bhutan limit tourism impact?",
+        "options": ["High fees", "Bans tourists", "Limits numbers", "Only virtual tours"],
+        "answer": "High fees"
+      }
+    ]
+  }

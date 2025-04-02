@@ -1,0 +1,39 @@
+{
+    "Maldives": [
+      {
+        "question": "What is the capital of Maldives?",
+        "options": ["Malé", "Addu", "Fuvahmulah", "Hithadhoo"],
+        "answer": "Malé"
+      },
+      {
+        "question": "What is the Maldives' geographical distinction?",
+        "options": ["World's flattest", "Most mountainous", "Largest", "Most forested"],
+        "answer": "World's flattest"
+      },
+      {
+        "question": "What is the Maldives' famous accommodation?",
+        "options": ["Overwater bungalows", "Treehouses", "Ice hotels", "Cave dwellings"],
+        "answer": "Overwater bungalows"
+      },
+      {
+        "question": "What is the Maldives' highest point?",
+        "options": ["2.4 meters", "240 meters", "2,400 meters", "24 meters"],
+        "answer": "2.4 meters"
+      },
+      {
+        "question": "What is the weekend in Maldives?",
+        "options": ["Friday-Saturday", "Saturday-Sunday", "Sunday-Monday", "No weekend"],
+        "answer": "Friday-Saturday"
+      },
+      {
+        "question": "What threatens the Maldives' existence?",
+        "options": ["Rising sea levels", "Earthquakes", "Volcanoes", "Drought"],
+        "answer": "Rising sea levels"
+      },
+      {
+        "question": "What is the Maldives' main industry?",
+        "options": ["Luxury tourism", "Manufacturing", "Agriculture", "Mining"],
+        "answer": "Luxury tourism"
+      }
+    ]
+  }

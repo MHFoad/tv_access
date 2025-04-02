@@ -1,0 +1,39 @@
+{
+    "Syria": [
+      {
+        "question": "What is the capital of Syria?",
+        "options": ["Damascus", "Aleppo", "Homs", "Latakia"],
+        "answer": "Damascus"
+      },
+      {
+        "question": "What is Damascus' historical distinction?",
+        "options": ["Oldest continuously inhabited capital", "Newest capital", "Temporary capital", "Abandoned capital"],
+        "answer": "Oldest continuously inhabited capital"
+      },
+      {
+        "question": "What ancient civilization was Syria part of?",
+        "options": ["Fertile Crescent", "Indus Valley", "Yellow River", "Nile Delta"],
+        "answer": "Fertile Crescent"
+      },
+      {
+        "question": "What musical innovation came from Syria?",
+        "options": ["Musical scale", "Piano", "Violin", "Guitar"],
+        "answer": "Musical scale"
+      },
+      {
+        "question": "When did Syria's civil war begin?",
+        "options": ["2001", "2011", "2021", "1991"],
+        "answer": "2011"
+      },
+      {
+        "question": "What ancient city is in Syria?",
+        "options": ["Palmyra", "Babylon", "Persepolis", "Petra"],
+        "answer": "Palmyra"
+      },
+      {
+        "question": "What is considered to have originated in Syria?",
+        "options": ["Alphabet", "Numbers", "Paper", "Printing"],
+        "answer": "Alphabet"
+      }
+    ]
+  }

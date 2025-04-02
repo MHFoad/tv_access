@@ -1,0 +1,39 @@
+{
+    "Kuwait": [
+      {
+        "question": "What is the capital of Kuwait?",
+        "options": ["Kuwait City", "Al Ahmadi", "Hawalli", "Farwaniya"],
+        "answer": "Kuwait City"
+      },
+      {
+        "question": "What is Kuwait's currency strength?",
+        "options": ["Weakest", "Average", "One of strongest", "None"],
+        "answer": "One of strongest"
+      },
+      {
+        "question": "What is Kuwait's position on oil reserves?",
+        "options": ["None", "Sixth largest", "Smallest", "Only for domestic use"],
+        "answer": "Sixth largest"
+      },
+      {
+        "question": "What is illegal in Kuwait?",
+        "options": ["Alcohol and pork", "Driving", "Working", "All food"],
+        "answer": "Alcohol and pork"
+      },
+      {
+        "question": "What is Kuwait's famous tower?",
+        "options": ["Liberation Tower", "Eiffel Tower", "Burj Khalifa", "CN Tower"],
+        "answer": "Liberation Tower"
+      },
+      {
+        "question": "What is Kuwait's water situation?",
+        "options": ["No natural freshwater", "Many rivers", "Lakes", "Underground only"],
+        "answer": "No natural freshwater"
+      },
+      {
+        "question": "When was Kuwait invaded by Iraq?",
+        "options": ["1980", "1990", "2000", "Never"],
+        "answer": "1990"
+      }
+    ]
+  }

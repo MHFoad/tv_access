@@ -1,0 +1,39 @@
+{
+    "State of Palestine": [
+      {
+        "question": "What is Palestine's administrative capital?",
+        "options": ["Ramallah", "Gaza", "Jericho", "Bethlehem"],
+        "answer": "Ramallah"
+      },
+      {
+        "question": "What is Palestine's famous ancient city?",
+        "options": ["Jericho", "Babylon", "Petra", "Damascus"],
+        "answer": "Jericho"
+      },
+      {
+        "question": "What is the Dead Sea's elevation?",
+        "options": ["-430m", "0m", "430m", "1000m"],
+        "answer": "-430m"
+      },
+      {
+        "question": "What is Palestine's status internationally?",
+        "options": ["Fully recognized", "Partially recognized", "Not recognized", "Only regionally recognized"],
+        "answer": "Partially recognized"
+      },
+      {
+        "question": "What separates West Bank and Gaza?",
+        "options": ["Israel", "Jordan", "Egypt", "Mediterranean"],
+        "answer": "Israel"
+      },
+      {
+        "question": "What religious sites are in Palestine?",
+        "options": ["Jerusalem and Bethlehem", "Mecca and Medina", "Varanasi", "Lourdes"],
+        "answer": "Jerusalem and Bethlehem"
+      },
+      {
+        "question": "What is Palestine's currency?",
+        "options": ["Shekel", "Dinar", "Pound", "Euro"],
+        "answer": "Shekel"
+      }
+    ]
+  }

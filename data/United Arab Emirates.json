@@ -1,0 +1,39 @@
+{
+    "United Arab Emirates": [
+      {
+        "question": "What is the capital of UAE?",
+        "options": ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"],
+        "answer": "Abu Dhabi"
+      },
+      {
+        "question": "What is UAE's famous tall building?",
+        "options": ["Burj Khalifa", "Eiffel Tower", "Empire State", "Shanghai Tower"],
+        "answer": "Burj Khalifa"
+      },
+      {
+        "question": "What unusual facility does UAE have in the desert?",
+        "options": ["Indoor ski slopes", "Ice hotel", "Snow park", "All of the above"],
+        "answer": "Indoor ski slopes"
+      },
+      {
+        "question": "What percentage of UAE residents are Emirati citizens?",
+        "options": ["11%", "50%", "75%", "90%"],
+        "answer": "11%"
+      },
+      {
+        "question": "What is UAE's weather phenomenon?",
+        "options": ["Rare rain", "Constant rain", "Snow", "Tornadoes"],
+        "answer": "Rare rain"
+      },
+      {
+        "question": "What is UAE's famous mall?",
+        "options": ["World's largest", "Underground", "Floating", "Only luxury"],
+        "answer": "World's largest"
+      },
+      {
+        "question": "How many emirates make up the UAE?",
+        "options": ["5", "7", "10", "12"],
+        "answer": "7"
+      }
+    ]
+  }

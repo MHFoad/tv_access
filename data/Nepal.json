@@ -1,0 +1,39 @@
+{
+    "Nepal": [
+      {
+        "question": "What is the capital of Nepal?",
+        "options": ["Pokhara", "Kathmandu", "Lalitpur", "Bharatpur"],
+        "answer": "Kathmandu"
+      },
+      {
+        "question": "What is unique about Nepal's flag?",
+        "options": ["Only non-rectangular", "Only circular", "Only triangular", "Only square"],
+        "answer": "Only non-rectangular"
+      },
+      {
+        "question": "What mountain is in Nepal?",
+        "options": ["Mount Everest", "K2", "Kilimanjaro", "Denali"],
+        "answer": "Mount Everest"
+      },
+      {
+        "question": "What legendary creature is associated with Nepal?",
+        "options": ["Yeti", "Loch Ness Monster", "Bigfoot", "Dragon"],
+        "answer": "Yeti"
+      },
+      {
+        "question": "What religious figure was born in Nepal?",
+        "options": ["Buddha", "Jesus", "Muhammad", "Confucius"],
+        "answer": "Buddha"
+      },
+      {
+        "question": "How many of the world's ten highest mountains are in Nepal?",
+        "options": ["None", "Four", "Eight", "All ten"],
+        "answer": "Eight"
+      },
+      {
+        "question": "When did Nepal become a republic?",
+        "options": ["1948", "1978", "2008", "2018"],
+        "answer": "2008"
+      }
+    ]
+  }

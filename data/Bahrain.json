@@ -1,0 +1,39 @@
+{
+    "Bahrain": [
+      {
+        "question": "What is the capital of Bahrain?",
+        "options": ["Manama", "Riffa", "Muharraq", "Hamad Town"],
+        "answer": "Manama"
+      },
+      {
+        "question": "What is Bahrain's famous motorsport event?",
+        "options": ["Formula 1", "MotoGP", "NASCAR", "IndyCar"],
+        "answer": "Formula 1"
+      },
+      {
+        "question": "What is Bahrain's underwater attraction?",
+        "options": ["World's largest theme park", "Coral reef", "Shipwreck", "Underwater hotel"],
+        "answer": "World's largest theme park"
+      },
+      {
+        "question": "What is the Tree of Life known for?",
+        "options": ["Stands alone for 400 years", "World's oldest", "World's tallest", "Fruit bearing"],
+        "answer": "Stands alone for 400 years"
+      },
+      {
+        "question": "What was Bahrain first to discover in the Gulf?",
+        "options": ["Oil", "Gold", "Fresh water", "Pearls"],
+        "answer": "Oil"
+      },
+      {
+        "question": "What connects Bahrain to Saudi Arabia?",
+        "options": ["Bridge", "Tunnel", "Causeway", "Ferry"],
+        "answer": "Causeway"
+      },
+      {
+        "question": "What is Bahrain's size?",
+        "options": ["Very small", "Large", "Medium", "Varies seasonally"],
+        "answer": "Very small"
+      }
+    ]
+  }

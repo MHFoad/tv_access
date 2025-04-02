@@ -1,0 +1,39 @@
+{
+    "Oman": [
+      {
+        "question": "What is the capital of Oman?",
+        "options": ["Salalah", "Muscat", "Sohar", "Nizwa"],
+        "answer": "Muscat"
+      },
+      {
+        "question": "What is Oman's Sultan Qaboos Mosque known for?",
+        "options": ["600,000 crystal chandelier", "World's smallest", "Underground", "Floating"],
+        "answer": "600,000 crystal chandelier"
+      },
+      {
+        "question": "What is Oman's climate like?",
+        "options": ["Regularly over 50°C", "Always below freezing", "Mild", "Rainy"],
+        "answer": "Regularly over 50°C"
+      },
+      {
+        "question": "What desert is in Oman?",
+        "options": ["Rub' al Khali", "Sahara", "Gobi", "Kalahari"],
+        "answer": "Rub' al Khali"
+      },
+      {
+        "question": "What was Oman historically known for?",
+        "options": ["Trading nation", "Isolation", "Only agriculture", "No history"],
+        "answer": "Trading nation"
+      },
+      {
+        "question": "What is Oman's foreign policy known for?",
+        "options": ["Neutrality", "Aggression", "Isolation", "Expansion"],
+        "answer": "Neutrality"
+      },
+      {
+        "question": "What product is Oman famous for?",
+        "options": ["Frankincense", "Gold", "Spices", "Silk"],
+        "answer": "Frankincense"
+      }
+    ]
+  }

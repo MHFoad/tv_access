@@ -1,0 +1,39 @@
+{
+    "Malaysia": [
+      {
+        "question": "What is the capital of Malaysia?",
+        "options": ["Kuala Lumpur", "Putrajaya", "Penang", "Johor Bahru"],
+        "answer": "Kuala Lumpur"
+      },
+      {
+        "question": "What is Malaysia's famous twin towers?",
+        "options": ["Petronas Towers", "Burj Khalifa", "Taipei 101", "Shanghai Tower"],
+        "answer": "Petronas Towers"
+      },
+      {
+        "question": "What is illegal to dance in Malaysia?",
+        "options": ["Lambada", "Tango", "Waltz", "Ballet"],
+        "answer": "Lambada"
+      },
+      {
+        "question": "What is Malaysia's Putrajaya known for?",
+        "options": ["World's largest roundabout", "Tallest building", "Oldest city", "Biggest port"],
+        "answer": "World's largest roundabout"
+      },
+      {
+        "question": "What is Malaysia's main agricultural export?",
+        "options": ["Palm oil", "Rice", "Wheat", "Corn"],
+        "answer": "Palm oil"
+      },
+      {
+        "question": "What is unique about Malaysia's society?",
+        "options": ["Multicultural harmony", "Only one ethnicity", "No indigenous people", "No diversity"],
+        "answer": "Multicultural harmony"
+      },
+      {
+        "question": "What wildlife is Malaysia known for?",
+        "options": ["Borneo wildlife", "Polar bears", "Kangaroos", "Penguins"],
+        "answer": "Borneo wildlife"
+      }
+    ]
+  }

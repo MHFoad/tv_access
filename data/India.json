@@ -1,0 +1,39 @@
+{
+    "India": [
+      {
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "New Delhi", "Bangalore", "Kolkata"],
+        "answer": "New Delhi"
+      },
+      {
+        "question": "Which famous monument is located in Agra?",
+        "options": ["Hawa Mahal", "Taj Mahal", "Red Fort", "Qutub Minar"],
+        "answer": "Taj Mahal"
+      },
+      {
+        "question": "What is India's film industry commonly called?",
+        "options": ["Lollywood", "Bollywood", "Tollywood", "Kollywood"],
+        "answer": "Bollywood"
+      },
+      {
+        "question": "Which river is considered most sacred in India?",
+        "options": ["Yamuna", "Ganges", "Brahmaputra", "Godavari"],
+        "answer": "Ganges"
+      },
+      {
+        "question": "What is India's national animal?",
+        "options": ["Lion", "Elephant", "Royal Bengal Tiger", "Leopard"],
+        "answer": "Royal Bengal Tiger"
+      },
+      {
+        "question": "Which game originated in ancient India?",
+        "options": ["Chess", "Snakes and Ladders", "Polo", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is unique about India's family structure in the Guinness World Records?",
+        "options": ["World's largest joint family", "Oldest living family", "Richest family", "Most educated family"],
+        "answer": "World's largest joint family"
+      }
+    ]
+  }
