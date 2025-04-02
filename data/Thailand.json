@@ -1,0 +1,39 @@
+{
+    "Thailand": [
+      {
+        "question": "What is the capital of Thailand?",
+        "options": ["Chiang Mai", "Bangkok", "Phuket", "Pattaya"],
+        "answer": "Bangkok"
+      },
+      {
+        "question": "What is Thailand's nickname?",
+        "options": ["Land of Smiles", "Land of Tears", "Land of Frowns", "Land of Laughs"],
+        "answer": "Land of Smiles"
+      },
+      {
+        "question": "What is unique about Thailand's history?",
+        "options": ["Never colonized", "Colonized by many", "Only British colony", "Only French colony"],
+        "answer": "Never colonized"
+      },
+      {
+        "question": "What is Thailand's famous golden Buddha?",
+        "options": ["World's largest solid gold", "Smallest", "Newest", "Only standing"],
+        "answer": "World's largest solid gold"
+      },
+      {
+        "question": "What is illegal regarding Thai currency?",
+        "options": ["Stepping on it", "Folding it", "Photographing it", "Exchanging it"],
+        "answer": "Stepping on it"
+      },
+      {
+        "question": "What martial art originated in Thailand?",
+        "options": ["Muay Thai", "Karate", "Kung Fu", "Taekwondo"],
+        "answer": "Muay Thai"
+      },
+      {
+        "question": "How many Buddhist temples are in Thailand?",
+        "options": ["About 400", "About 4,000", "Over 40,000", "None"],
+        "answer": "Over 40,000"
+      }
+    ]
+  }

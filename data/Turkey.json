@@ -1,0 +1,39 @@
+{
+    "Turkey": [
+      {
+        "question": "What is the capital of Turkey?",
+        "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+        "answer": "Ankara"
+      },
+      {
+        "question": "What famous religious figure was born in Turkey?",
+        "options": ["Santa Claus", "Buddha", "Muhammad", "Jesus"],
+        "answer": "Santa Claus"
+      },
+      {
+        "question": "What did Turkey introduce to the Netherlands?",
+        "options": ["Tulips", "Windmills", "Cheese", "Chocolate"],
+        "answer": "Tulips"
+      },
+      {
+        "question": "What famous Istanbul building was originally a church?",
+        "options": ["Hagia Sophia", "Blue Mosque", "Topkapi Palace", "Galata Tower"],
+        "answer": "Hagia Sophia"
+      },
+      {
+        "question": "What unique geological formations are in Cappadocia?",
+        "options": ["Fairy chimneys", "Volcanoes", "Glaciers", "Canyons"],
+        "answer": "Fairy chimneys"
+      },
+      {
+        "question": "What empire was centered in Turkey?",
+        "options": ["Ottoman", "Roman", "British", "Mongol"],
+        "answer": "Ottoman"
+      },
+      {
+        "question": "What is Turkey's famous sweet?",
+        "options": ["Turkish delight", "Baklava", "Halva", "All of the above"],
+        "answer": "All of the above"
+      }
+    ]
+  }

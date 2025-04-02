@@ -1,0 +1,39 @@
+{
+    "Afghanistan": [
+      {
+        "question": "What is the capital of Afghanistan?",
+        "options": ["Kandahar", "Kabul", "Herat", "Mazar-i-Sharif"],
+        "answer": "Kabul"
+      },
+      {
+        "question": "What is Afghanistan's nickname?",
+        "options": ["Pearl of Asia", "Graveyard of Empires", "Land of Smiles", "Emerald Isle"],
+        "answer": "Graveyard of Empires"
+      },
+      {
+        "question": "What is Afghanistan's national game?",
+        "options": ["Buzkashi", "Cricket", "Football", "Polo"],
+        "answer": "Buzkashi"
+      },
+      {
+        "question": "What was found in Afghanistan from the 7th century?",
+        "options": ["First oil paintings", "First written language", "First wheel", "First metal tools"],
+        "answer": "First oil paintings"
+      },
+      {
+        "question": "What mountain range dominates Afghanistan?",
+        "options": ["Hindu Kush", "Himalayas", "Andes", "Alps"],
+        "answer": "Hindu Kush"
+      },
+      {
+        "question": "What was Afghanistan part of historically?",
+        "options": ["Silk Road", "Transatlantic trade", "Spice Islands", "Tea Route"],
+        "answer": "Silk Road"
+      },
+      {
+        "question": "What is Afghanistan's mineral wealth status?",
+        "options": ["None", "Small amounts", "Worth trillions", "Only gold"],
+        "answer": "Worth trillions"
+      }
+    ]
+  }

@@ -1,0 +1,39 @@
+{
+    "Saudi Arabia": [
+      {
+        "question": "What is the capital of Saudi Arabia?",
+        "options": ["Mecca", "Riyadh", "Jeddah", "Medina"],
+        "answer": "Riyadh"
+      },
+      {
+        "question": "What is Saudi Arabia building that's 170km long?",
+        "options": ["The Line", "The Circle", "The Square", "The Triangle"],
+        "answer": "The Line"
+      },
+      {
+        "question": "What is illegal to celebrate publicly in Saudi Arabia?",
+        "options": ["Valentine's Day", "Birthdays", "Anniversaries", "All of the above"],
+        "answer": "Valentine's Day"
+      },
+      {
+        "question": "What holy cities are in Saudi Arabia?",
+        "options": ["Mecca and Medina", "Jerusalem and Bethlehem", "Varanasi and Amritsar", "None"],
+        "answer": "Mecca and Medina"
+      },
+      {
+        "question": "What is Saudi Arabia's water situation?",
+        "options": ["No rivers", "Many rivers", "Only underground rivers", "Only seasonal rivers"],
+        "answer": "No rivers"
+      },
+      {
+        "question": "When did Saudi Arabia begin issuing tourist visas?",
+        "options": ["1919", "1959", "2009", "2019"],
+        "answer": "2019"
+      },
+      {
+        "question": "What is Saudi Arabia's landscape primarily?",
+        "options": ["Desert", "Forest", "Mountains", "Plains"],
+        "answer": "Desert"
+      }
+    ]
+  }
