@@ -1,0 +1,39 @@
+{
+    "Poland": [
+      {
+        "question": "What is the capital of Poland?",
+        "options": ["Kraków", "Warsaw", "Gdańsk", "Wrocław"],
+        "answer": "Warsaw"
+      },
+      {
+        "question": "What are Poland's famous dumplings called?",
+        "options": ["Pierogi", "Ravioli", "Dumplings", "Gyoza"],
+        "answer": "Pierogi"
+      },
+      {
+        "question": "Which famous scientist was Polish?",
+        "options": ["Einstein", "Copernicus", "Newton", "Darwin"],
+        "answer": "Copernicus"
+      },
+      {
+        "question": "What is special about Polish bread?",
+        "options": ["It's square", "It's protected by law", "It's always sweet", "It's always sour"],
+        "answer": "It's protected by law"
+      },
+      {
+        "question": "Where is the world's largest castle located?",
+        "options": ["France", "Germany", "Poland", "Russia"],
+        "answer": "Poland"
+      },
+      {
+        "question": "What contains Europe's last primeval woodland?",
+        "options": ["Białowieża Forest", "Black Forest", "Sherwood Forest", "Amazon Rainforest"],
+        "answer": "Białowieża Forest"
+      },
+      {
+        "question": "Which famous composer was Polish?",
+        "options": ["Mozart", "Beethoven", "Chopin", "Tchaikovsky"],
+        "answer": "Chopin"
+      }
+    ]
+  }

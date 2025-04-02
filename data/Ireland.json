@@ -1,0 +1,39 @@
+{
+    "Ireland": [
+      {
+        "question": "What is the capital of Ireland?",
+        "options": ["Cork", "Dublin", "Galway", "Limerick"],
+        "answer": "Dublin"
+      },
+      {
+        "question": "What is Ireland's famous holiday?",
+        "options": ["St. Patrick's Day", "Oktoberfest", "Cinco de Mayo", "Bastille Day"],
+        "answer": "St. Patrick's Day"
+      },
+      {
+        "question": "What is unique about Ireland's wildlife?",
+        "options": ["No snakes", "No birds", "No fish", "No insects"],
+        "answer": "No snakes"
+      },
+      {
+        "question": "What is Ireland's nickname?",
+        "options": ["Emerald Isle", "Golden Isle", "Diamond Isle", "Ruby Isle"],
+        "answer": "Emerald Isle"
+      },
+      {
+        "question": "What is Ireland's famous drink?",
+        "options": ["Guinness", "Vodka", "Wine", "Sake"],
+        "answer": "Guinness"
+      },
+      {
+        "question": "What is Ireland's position on tea consumption?",
+        "options": ["Lowest", "Average", "Highest except Turkey", "Tea is banned"],
+        "answer": "Highest except Turkey"
+      },
+      {
+        "question": "What is unique about Irish hair color?",
+        "options": ["Most blondes", "Most redheads", "Most brunettes", "Most bald"],
+        "answer": "Most redheads"
+      }
+    ]
+  }

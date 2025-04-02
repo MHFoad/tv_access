@@ -1,0 +1,39 @@
+{
+    "Denmark": [
+      {
+        "question": "What is the capital of Denmark?",
+        "options": ["Aarhus", "Copenhagen", "Odense", "Aalborg"],
+        "answer": "Copenhagen"
+      },
+      {
+        "question": "What toy was invented in Denmark?",
+        "options": ["Barbie", "LEGO", "Rubik's Cube", "Play-Doh"],
+        "answer": "LEGO"
+      },
+      {
+        "question": "What is the Danish concept of coziness called?",
+        "options": ["Fika", "Hygge", "Lagom", "Gezellig"],
+        "answer": "Hygge"
+      },
+      {
+        "question": "Which famous statue is in Copenhagen harbor?",
+        "options": ["Statue of Liberty", "Little Mermaid", "David", "Christ the Redeemer"],
+        "answer": "Little Mermaid"
+      },
+      {
+        "question": "What is Denmark's tax situation?",
+        "options": ["Lowest taxes", "Average taxes", "Highest taxes but happiest", "No income tax"],
+        "answer": "Highest taxes but happiest"
+      },
+      {
+        "question": "What is unique about Denmark's flag burning laws?",
+        "options": ["All flags banned", "Only Danish flag banned", "Foreign flags banned but not Danish", "All flags allowed"],
+        "answer": "Foreign flags banned but not Danish"
+      },
+      {
+        "question": "What is Denmark's geographical composition?",
+        "options": ["One large island", "Peninsula and islands", "Mainland only", "Archipelago"],
+        "answer": "Peninsula and islands"
+      }
+    ]
+  }

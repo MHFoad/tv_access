@@ -1,0 +1,39 @@
+{
+    "Singapore": [
+      {
+        "question": "What is the capital of Singapore?",
+        "options": ["Singapore City", "Central Area", "Downtown Core", "Singapore is a city-state"],
+        "answer": "Singapore is a city-state"
+      },
+      {
+        "question": "What is banned in Singapore (except for medicinal use)?",
+        "options": ["Chewing gum", "Chocolate", "Coffee", "Tea"],
+        "answer": "Chewing gum"
+      },
+      {
+        "question": "What unique zoo does Singapore have?",
+        "options": ["World's first night zoo", "Underground zoo", "Floating zoo", "Virtual reality zoo"],
+        "answer": "World's first night zoo"
+      },
+      {
+        "question": "What is Singapore's famous hotel with a sky park?",
+        "options": ["Marina Bay Sands", "Raffles Hotel", "Fullerton Hotel", "Mandarin Oriental"],
+        "answer": "Marina Bay Sands"
+      },
+      {
+        "question": "How did Singapore transform economically?",
+        "options": ["Third-world to first-world in one generation", "Slow gradual growth", "No change", "Decline then recovery"],
+        "answer": "Third-world to first-world in one generation"
+      },
+      {
+        "question": "What is unique about Singapore's port?",
+        "options": ["World's busiest", "Only for cruise ships", "Freshwater only", "Underground"],
+        "answer": "World's busiest"
+      },
+      {
+        "question": "How many official languages does Singapore have?",
+        "options": ["1", "2", "4", "10"],
+        "answer": "4"
+      }
+    ]
+  }

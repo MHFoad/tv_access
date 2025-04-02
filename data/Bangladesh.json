@@ -1,0 +1,39 @@
+{
+    "Bangladesh": [
+      {
+        "question": "What is the capital of Bangladesh?",
+        "options": ["Chittagong", "Dhaka", "Khulna", "Sylhet"],
+        "answer": "Dhaka"
+      },
+      {
+        "question": "What is Bangladesh's famous mangrove forest?",
+        "options": ["Amazon", "Sundarbans", "Black Forest", "Sherwood Forest"],
+        "answer": "Sundarbans"
+      },
+      {
+        "question": "What animal lives in the Sundarbans?",
+        "options": ["Bengal tiger", "Polar bear", "Kangaroo", "Elephant"],
+        "answer": "Bengal tiger"
+      },
+      {
+        "question": "What is Bangladesh's longest natural sea beach?",
+        "options": ["Cox's Bazar", "Patenga", "Kuakata", "Inani"],
+        "answer": "Cox's Bazar"
+      },
+      {
+        "question": "From which country did Bangladesh gain independence?",
+        "options": ["India", "Pakistan", "Myanmar", "Nepal"],
+        "answer": "Pakistan"
+      },
+      {
+        "question": "What is Bangladesh's famous river delta?",
+        "options": ["Ganges-Brahmaputra", "Nile", "Amazon", "Mekong"],
+        "answer": "Ganges-Brahmaputra"
+      },
+      {
+        "question": "What was the ancient capital of Bengal?",
+        "options": ["Dhaka", "Sonargaon", "Chittagong", "Rajshahi"],
+        "answer": "Sonargaon"
+      }
+    ]
+  }

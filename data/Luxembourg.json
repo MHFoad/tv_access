@@ -1,0 +1,39 @@
+{
+    "Luxembourg": [
+      {
+        "question": "What is the capital of Luxembourg?",
+        "options": ["Luxembourg City", "Esch-sur-Alzette", "Differdange", "Dudelange"],
+        "answer": "Luxembourg City"
+      },
+      {
+        "question": "What is Luxembourg's position on GDP per capita?",
+        "options": ["Lowest", "Average", "Highest", "Not measured"],
+        "answer": "Highest"
+      },
+      {
+        "question": "How many official languages does Luxembourg have?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "3"
+      },
+      {
+        "question": "What is unique about Luxembourg's minimum wage?",
+        "options": ["Nonexistent", "World's highest", "Same as neighbors", "Changes daily"],
+        "answer": "World's highest"
+      },
+      {
+        "question": "What international organizations are based in Luxembourg?",
+        "options": ["EU institutions", "UN", "NATO", "ASEAN"],
+        "answer": "EU institutions"
+      },
+      {
+        "question": "What is the marriage rule for Luxembourg's Grand Duke?",
+        "options": ["Must marry commoner", "Must wait until 25", "Must marry foreigner", "Cannot marry"],
+        "answer": "Must wait until 25"
+      },
+      {
+        "question": "What is Luxembourg's approximate population?",
+        "options": ["634,000", "1 million", "5 million", "10 million"],
+        "answer": "634,000"
+      }
+    ]
+  }

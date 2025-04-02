@@ -1,0 +1,39 @@
+{
+    "Finland": [
+      {
+        "question": "What is the capital of Finland?",
+        "options": ["Turku", "Tampere", "Helsinki", "Oulu"],
+        "answer": "Helsinki"
+      },
+      {
+        "question": "Why is Finland called the 'Land of a Thousand Lakes'?",
+        "options": ["It has exactly 1000 lakes", "It has over 188,000 lakes", "It has the deepest lake", "It has the saltiest lake"],
+        "answer": "It has over 188,000 lakes"
+      },
+      {
+        "question": "What is Finland's unusual national sport?",
+        "options": ["Wife-carrying", "Ice swimming", "Ski jumping", "Snow golf"],
+        "answer": "Wife-carrying"
+      },
+      {
+        "question": "What is Finland known for per capita?",
+        "options": ["Most coffee drinkers", "Most heavy metal bands", "Most saunas", "Most mobile phones"],
+        "answer": "Most heavy metal bands"
+      },
+      {
+        "question": "Where is Santa Claus's official hometown?",
+        "options": ["Stockholm", "Rovaniemi", "Oslo", "Copenhagen"],
+        "answer": "Rovaniemi"
+      },
+      {
+        "question": "Which mobile phone company originated in Finland?",
+        "options": ["Samsung", "Nokia", "Apple", "Sony"],
+        "answer": "Nokia"
+      },
+      {
+        "question": "How does Finland rank in global education systems?",
+        "options": ["Among the worst", "Average", "Among the best", "Not ranked"],
+        "answer": "Among the best"
+      }
+    ]
+  }

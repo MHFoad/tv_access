@@ -1,0 +1,39 @@
+{
+    "Sweden": [
+      {
+        "question": "What is the capital of Sweden?",
+        "options": ["Gothenburg", "Stockholm", "Malmo", "Uppsala"],
+        "answer": "Stockholm"
+      },
+      {
+        "question": "Which famous furniture company comes from Sweden?",
+        "options": ["IKEA", "Walmart", "Target", "Home Depot"],
+        "answer": "IKEA"
+      },
+      {
+        "question": "What natural phenomenon can be seen in Sweden?",
+        "options": ["Northern Lights", "Tornadoes", "Monsoons", "Earthquakes"],
+        "answer": "Northern Lights"
+      },
+      {
+        "question": "What percentage of Sweden's household waste is recycled?",
+        "options": ["50%", "75%", "90%", "99%"],
+        "answer": "99%"
+      },
+      {
+        "question": "What do Swedes dance around during midsummer?",
+        "options": ["Maypole", "Flower pole", "Bonfire", "Tree"],
+        "answer": "Flower pole"
+      },
+      {
+        "question": "What is Sweden's 'freedom to roam' law about?",
+        "options": ["Free speech", "Access to nature", "Public transport", "Healthcare"],
+        "answer": "Access to nature"
+      },
+      {
+        "question": "Which famous music group is from Sweden?",
+        "options": ["The Beatles", "ABBA", "Queen", "Rolling Stones"],
+        "answer": "ABBA"
+      }
+    ]
+  }

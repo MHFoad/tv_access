@@ -1,0 +1,39 @@
+{
+    "Japan": [
+      {
+        "question": "What is the capital of Japan?",
+        "options": ["Osaka", "Tokyo", "Kyoto", "Hiroshima"],
+        "answer": "Tokyo"
+      },
+      {
+        "question": "What is Japan's famous high-speed train?",
+        "options": ["Shinkansen", "Eurostar", "Amtrak", "TGV"],
+        "answer": "Shinkansen"
+      },
+      {
+        "question": "What is unique about Japanese watermelons?",
+        "options": ["Square shape", "Blue color", "Gigantic size", "No seeds"],
+        "answer": "Square shape"
+      },
+      {
+        "question": "What is Japan's position on vending machines?",
+        "options": ["Few exist", "Average number", "Over 5 million", "Banned"],
+        "answer": "Over 5 million"
+      },
+      {
+        "question": "What is Japan's famous flowering tree?",
+        "options": ["Cherry blossom", "Oak", "Maple", "Pine"],
+        "answer": "Cherry blossom"
+      },
+      {
+        "question": "What is unique about Japan's monarchy?",
+        "options": ["Oldest hereditary", "Elected", "No monarchy", "Shared with China"],
+        "answer": "Oldest hereditary"
+      },
+      {
+        "question": "Which company is Japanese?",
+        "options": ["Toyota", "Ford", "Volkswagen", "Fiat"],
+        "answer": "Toyota"
+      }
+    ]
+  }

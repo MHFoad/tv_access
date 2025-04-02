@@ -1,0 +1,39 @@
+{
+    "Iran": [
+      {
+        "question": "What is the capital of Iran?",
+        "options": ["Isfahan", "Tehran", "Shiraz", "Tabriz"],
+        "answer": "Tehran"
+      },
+      {
+        "question": "What was Iran historically known as?",
+        "options": ["Persia", "Babylonia", "Assyria", "Mesopotamia"],
+        "answer": "Persia"
+      },
+      {
+        "question": "What ancient site is in Iran?",
+        "options": ["Persepolis", "Acropolis", "Colosseum", "Great Wall"],
+        "answer": "Persepolis"
+      },
+      {
+        "question": "What is Iran's position on Western music?",
+        "options": ["Required in schools", "Banned in public", "Only classical allowed", "No restrictions"],
+        "answer": "Banned in public"
+      },
+      {
+        "question": "What early invention came from Iran?",
+        "options": ["Refrigerator", "Light bulb", "Telephone", "Computer"],
+        "answer": "Refrigerator"
+      },
+      {
+        "question": "What is Iran famous for producing?",
+        "options": ["Persian carpets", "Silk", "Porcelain", "Glass"],
+        "answer": "Persian carpets"
+      },
+      {
+        "question": "What is Iran's landscape diversity?",
+        "options": ["Only desert", "Only mountains", "Deserts to snow-capped mountains", "Only plains"],
+        "answer": "Deserts to snow-capped mountains"
+      }
+    ]
+  }

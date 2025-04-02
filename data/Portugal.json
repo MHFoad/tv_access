@@ -1,0 +1,39 @@
+{
+    "Portugal": [
+      {
+        "question": "What is the capital of Portugal?",
+        "options": ["Porto", "Lisbon", "Faro", "Coimbra"],
+        "answer": "Lisbon"
+      },
+      {
+        "question": "What famous explorer was Portuguese?",
+        "options": ["Columbus", "Vasco da Gama", "Magellan", "Cook"],
+        "answer": "Vasco da Gama"
+      },
+      {
+        "question": "What is Portugal's famous pastry?",
+        "options": ["Pasteis de nata", "Croissant", "Donut", "Éclair"],
+        "answer": "Pasteis de nata"
+      },
+      {
+        "question": "What is unique about Portugal's Vasco da Gama Bridge?",
+        "options": ["It's the longest", "It's the oldest", "It's underwater", "It's made of glass"],
+        "answer": "It's the longest"
+      },
+      {
+        "question": "Which university in Portugal is among Europe's oldest?",
+        "options": ["University of Lisbon", "University of Coimbra", "University of Porto", "University of Algarve"],
+        "answer": "University of Coimbra"
+      },
+      {
+        "question": "What is Portugal's approximate number of sunny days annually?",
+        "options": ["100", "200", "300", "365"],
+        "answer": "300"
+      },
+      {
+        "question": "What famous footballer is Portuguese?",
+        "options": ["Messi", "Ronaldo", "Neymar", "Mbappé"],
+        "answer": "Ronaldo"
+      }
+    ]
+  }

@@ -1,0 +1,39 @@
+{
+    "San Marino": [
+      {
+        "question": "What is the capital of San Marino?",
+        "options": ["San Marino City", "Borgo Maggiore", "Serravalle", "Domagnano"],
+        "answer": "San Marino City"
+      },
+      {
+        "question": "What is unique about San Marino's government history?",
+        "options": ["First communist government", "First democracy", "First monarchy", "First dictatorship"],
+        "answer": "First communist government"
+      },
+      {
+        "question": "What is San Marino's position regarding UNESCO sites?",
+        "options": ["None", "Average per capita", "Most per capita", "Only modern sites"],
+        "answer": "Most per capita"
+      },
+      {
+        "question": "What is San Marino famous for collecting?",
+        "options": ["Postage stamps", "Coins", "Art", "Cars"],
+        "answer": "Postage stamps"
+      },
+      {
+        "question": "What is San Marino's geographical situation?",
+        "options": ["Surrounded by Italy", "Island nation", "Landlocked in Europe", "Peninsula"],
+        "answer": "Surrounded by Italy"
+      },
+      {
+        "question": "What is San Marino's claim to historical fame?",
+        "options": ["Oldest republic", "First to abolish slavery", "First space program", "First industrial revolution"],
+        "answer": "Oldest republic"
+      },
+      {
+        "question": "What is San Marino's approximate population?",
+        "options": ["34,000", "100,000", "1 million", "5 million"],
+        "answer": "34,000"
+      }
+    ]
+  }

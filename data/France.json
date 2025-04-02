@@ -1,0 +1,39 @@
+{
+  "France": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the official language of France?",
+      "options": ["German", "English", "Spanish", "French"],
+      "answer": "French"
+    },
+    {
+      "question": "Which famous tower is located in France?",
+      "options": ["Big Ben", "Leaning Tower of Pisa", "Eiffel Tower", "Empire State Building"],
+      "answer": "Eiffel Tower"
+    },
+    {
+      "question": "What currency is used in France?",
+      "options": ["Pound", "Dollar", "Euro", "Franc"],
+      "answer": "Euro"
+    },
+    {
+      "question": "How many types of cheese does France produce?",
+      "options": ["100", "500", "1000", "2000"],
+      "answer": "1000"
+    },
+    {
+      "question": "What is illegal to name a pig in France?",
+      "options": ["Napoleon", "Louis", "Charles", "Pierre"],
+      "answer": "Napoleon"
+    },
+    {
+      "question": "How many UNESCO World Heritage sites does France have?",
+      "options": ["25", "35", "45", "55"],
+      "answer": "45"
+    }
+  ]
+}

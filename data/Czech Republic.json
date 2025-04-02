@@ -1,0 +1,39 @@
+{
+    "Czech Republic": [
+      {
+        "question": "What is the capital of the Czech Republic?",
+        "options": ["Brno", "Prague", "Ostrava", "Plzeň"],
+        "answer": "Prague"
+      },
+      {
+        "question": "What type of beer was invented in Czech Republic?",
+        "options": ["Stout", "Pilsner", "IPA", "Porter"],
+        "answer": "Pilsner"
+      },
+      {
+        "question": "What is the Czech Republic's position on beer consumption?",
+        "options": ["Lowest per capita", "Average", "Highest per capita", "Beer is banned"],
+        "answer": "Highest per capita"
+      },
+      {
+        "question": "What unusual church decoration exists in Czech Republic?",
+        "options": ["40,000 human bones", "Pure gold", "Diamond dust", "Marble statues"],
+        "answer": "40,000 human bones"
+      },
+      {
+        "question": "What everyday item was invented by Czechs?",
+        "options": ["Sugar cubes", "Paper clips", "Ballpoint pens", "Staplers"],
+        "answer": "Sugar cubes"
+      },
+      {
+        "question": "What is Prague Castle known for?",
+        "options": ["Smallest castle", "Largest ancient castle", "Newest castle", "Floating castle"],
+        "answer": "Largest ancient castle"
+      },
+      {
+        "question": "How did Czech Republic end communist rule?",
+        "options": ["Velvet Revolution", "Violent uprising", "Foreign invasion", "Economic collapse"],
+        "answer": "Velvet Revolution"
+      }
+    ]
+  }

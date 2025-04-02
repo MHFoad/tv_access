@@ -1,0 +1,39 @@
+{
+    "Switzerland": [
+      {
+        "question": "What is the capital of Switzerland?",
+        "options": ["Zurich", "Geneva", "Bern", "Basel"],
+        "answer": "Bern"
+      },
+      {
+        "question": "What is Switzerland famous for producing?",
+        "options": ["Watches", "Cars", "Computers", "Phones"],
+        "answer": "Watches"
+      },
+      {
+        "question": "What is the famous Swiss mountain called?",
+        "options": ["Mount Everest", "Matterhorn", "Kilimanjaro", "Mount Fuji"],
+        "answer": "Matterhorn"
+      },
+      {
+        "question": "What do Swiss men keep at home after military service?",
+        "options": ["Uniform", "Weapons", "Medals", "Boots"],
+        "answer": "Weapons"
+      },
+      {
+        "question": "Which famous Swiss chocolate brand has a triangular shape?",
+        "options": ["Lindt", "Toblerone", "Nestlé", "Frey"],
+        "answer": "Toblerone"
+      },
+      {
+        "question": "How many national languages does Switzerland have?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "4"
+      },
+      {
+        "question": "What is Switzerland's position on chocolate consumption per capita?",
+        "options": ["First", "Second", "Third", "Fourth"],
+        "answer": "First"
+      }
+    ]
+  }

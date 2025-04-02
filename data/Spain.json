@@ -1,0 +1,39 @@
+{
+    "Spain": [
+      {
+        "question": "What is the capital of Spain?",
+        "options": ["Barcelona", "Seville", "Madrid", "Valencia"],
+        "answer": "Madrid"
+      },
+      {
+        "question": "What is Spain's famous tomato-throwing festival called?",
+        "options": ["Oktoberfest", "La Tomatina", "Running of the Bulls", "Carnival"],
+        "answer": "La Tomatina"
+      },
+      {
+        "question": "Which famous architect designed the Sagrada Família?",
+        "options": ["Gaudí", "Picasso", "Dalí", "Miró"],
+        "answer": "Gaudí"
+      },
+      {
+        "question": "What is Spain's famous cured ham called?",
+        "options": ["Prosciutto", "Jamón ibérico", "Parma ham", "Black Forest ham"],
+        "answer": "Jamón ibérico"
+      },
+      {
+        "question": "What is the traditional New Year's Eve custom in Spain?",
+        "options": ["Eating 12 grapes", "Breaking plates", "Jumping over fires", "Wearing masks"],
+        "answer": "Eating 12 grapes"
+      },
+      {
+        "question": "Where is the world's oldest restaurant located?",
+        "options": ["Rome", "Paris", "Madrid", "London"],
+        "answer": "Madrid"
+      },
+      {
+        "question": "What is Spain's famous dance called?",
+        "options": ["Salsa", "Tango", "Flamenco", "Ballet"],
+        "answer": "Flamenco"
+      }
+    ]
+  }

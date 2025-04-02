@@ -1,0 +1,39 @@
+{
+    "Pakistan": [
+      {
+        "question": "What is the capital of Pakistan?",
+        "options": ["Karachi", "Lahore", "Islamabad", "Peshawar"],
+        "answer": "Islamabad"
+      },
+      {
+        "question": "What is Pakistan's highest mountain?",
+        "options": ["K2", "Everest", "Kilimanjaro", "Denali"],
+        "answer": "K2"
+      },
+      {
+        "question": "What ancient civilization was in Pakistan?",
+        "options": ["Indus Valley", "Roman", "Greek", "Egyptian"],
+        "answer": "Indus Valley"
+      },
+      {
+        "question": "What is Pakistan's famous polo field?",
+        "options": ["Highest in world", "Lowest in world", "Largest in world", "Oldest in world"],
+        "answer": "Highest in world"
+      },
+      {
+        "question": "What is unique about Khewra Salt Mine?",
+        "options": ["Second saltiest water", "Deepest mine", "Only pink salt", "No salt"],
+        "answer": "Second saltiest water"
+      },
+      {
+        "question": "What is Pakistan's irrigation system?",
+        "options": ["Nonexistent", "World's largest", "Smallest", "Only modern"],
+        "answer": "World's largest"
+      },
+      {
+        "question": "What is Pakistan's famous cuisine?",
+        "options": ["Biryani", "Sushi", "Pasta", "Tacos"],
+        "answer": "Biryani"
+      }
+    ]
+  }

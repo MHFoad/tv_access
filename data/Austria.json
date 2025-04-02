@@ -1,0 +1,39 @@
+{
+    "Austria": [
+      {
+        "question": "What is the capital of Austria?",
+        "options": ["Salzburg", "Vienna", "Innsbruck", "Graz"],
+        "answer": "Vienna"
+      },
+      {
+        "question": "Which famous composer was born in Austria?",
+        "options": ["Mozart", "Beethoven", "Chopin", "Tchaikovsky"],
+        "answer": "Mozart"
+      },
+      {
+        "question": "What is Austria's famous dish?",
+        "options": ["Wiener Schnitzel", "Pizza", "Sushi", "Tacos"],
+        "answer": "Wiener Schnitzel"
+      },
+      {
+        "question": "What is unique about Austria's zoo?",
+        "options": ["It's the oldest", "It's underwater", "It's only for birds", "It's on a mountain"],
+        "answer": "It's the oldest"
+      },
+      {
+        "question": "Where was The Sound of Music filmed?",
+        "options": ["Vienna", "Salzburg", "Innsbruck", "Graz"],
+        "answer": "Salzburg"
+      },
+      {
+        "question": "What winter sport innovation came from Austria?",
+        "options": ["Snowboarding", "Ice skating", "Curling", "Ski jumping"],
+        "answer": "Snowboarding"
+      },
+      {
+        "question": "What is displayed in Vienna's Imperial Treasury?",
+        "options": ["World's largest emerald", "Mona Lisa", "Crown jewels", "Moon rock"],
+        "answer": "World's largest emerald"
+      }
+    ]
+  }

@@ -1,0 +1,39 @@
+{
+  "Germany": [
+    {
+      "question": "What is the capital of Germany?",
+      "options": ["Munich", "Berlin", "Hamburg", "Frankfurt"],
+      "answer": "Berlin"
+    },
+    {
+      "question": "What is unique about Germany's autobahn?",
+      "options": ["It's the longest highway", "It has no speed limit", "It's the oldest highway", "It's the most expensive"],
+      "answer": "It has no speed limit"
+    },
+    {
+      "question": "Which famous festival originates in Germany?",
+      "options": ["Carnival", "Oktoberfest", "La Tomatina", "Running of the Bulls"],
+      "answer": "Oktoberfest"
+    },
+    {
+      "question": "How many varieties of bread does Germany have?",
+      "options": ["500", "1000", "3000", "5000"],
+      "answer": "3000"
+    },
+    {
+      "question": "Which famous composer was German?",
+      "options": ["Mozart", "Beethoven", "Chopin", "Tchaikovsky"],
+      "answer": "Beethoven"
+    },
+    {
+      "question": "What is Germany's population approximately?",
+      "options": ["67.4 million", "83.2 million", "60.4 million", "47.4 million"],
+      "answer": "83.2 million"
+    },
+    {
+      "question": "Which car brand originates from Germany?",
+      "options": ["Ferrari", "BMW", "Toyota", "Ford"],
+      "answer": "BMW"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+    "United Kingdom": [
+      {
+        "question": "What is the capital of the United Kingdom?",
+        "options": ["Manchester", "London", "Edinburgh", "Birmingham"],
+        "answer": "London"
+      },
+      {
+        "question": "Which famous writer was British?",
+        "options": ["Shakespeare", "Tolstoy", "Hemingway", "Dostoevsky"],
+        "answer": "Shakespeare"
+      },
+      {
+        "question": "What is the UK's famous food item?",
+        "options": ["Fish and chips", "Pizza", "Sushi", "Tacos"],
+        "answer": "Fish and chips"
+      },
+      {
+        "question": "Which sport was invented in the UK?",
+        "options": ["Basketball", "Football (soccer)", "Baseball", "Hockey"],
+        "answer": "Football (soccer)"
+      },
+      {
+        "question": "What is unique about London's Indian restaurants?",
+        "options": ["None exist", "Fewer than Paris", "More than Mumbai", "Only serve vegetarian"],
+        "answer": "More than Mumbai"
+      },
+      {
+        "question": "What is the UK's currency?",
+        "options": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+        "answer": "Pound Sterling"
+      },
+      {
+        "question": "What is illegal in Scotland regarding cows?",
+        "options": ["Milking them", "Being drunk with a cow", "Naming them", "Selling them"],
+        "answer": "Being drunk with a cow"
+      }
+    ]
+  }

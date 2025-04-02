@@ -1,0 +1,39 @@
+{
+    "Hungary": [
+      {
+        "question": "What is the capital of Hungary?",
+        "options": ["Debrecen", "Budapest", "Szeged", "Pécs"],
+        "answer": "Budapest"
+      },
+      {
+        "question": "What puzzle was invented in Hungary?",
+        "options": ["Rubik's Cube", "Sudoku", "Crossword", "Jigsaw"],
+        "answer": "Rubik's Cube"
+      },
+      {
+        "question": "What is Hungary's VAT rate?",
+        "options": ["10%", "17%", "27%", "5%"],
+        "answer": "27%"
+      },
+      {
+        "question": "What is unique about Hungarian names?",
+        "options": ["No surnames", "Surnames first", "Only one name", "Numbers in names"],
+        "answer": "Surnames first"
+      },
+      {
+        "question": "What is Budapest famous for?",
+        "options": ["Thermal baths", "Ski resorts", "Desert", "Rainforest"],
+        "answer": "Thermal baths"
+      },
+      {
+        "question": "What writing instrument was invented in Hungary?",
+        "options": ["Fountain pen", "Ballpoint pen", "Pencil", "Marker"],
+        "answer": "Ballpoint pen"
+      },
+      {
+        "question": "How many thermal springs does Hungary have?",
+        "options": ["About 150", "About 500", "About 1,500", "None"],
+        "answer": "About 1,500"
+      }
+    ]
+  }

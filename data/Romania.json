@@ -1,0 +1,39 @@
+{
+    "Romania": [
+      {
+        "question": "What is the capital of Romania?",
+        "options": ["Cluj-Napoca", "Bucharest", "Timișoara", "Iași"],
+        "answer": "Bucharest"
+      },
+      {
+        "question": "What region is associated with Dracula?",
+        "options": ["Transylvania", "Wallachia", "Moldavia", "Dobruja"],
+        "answer": "Transylvania"
+      },
+      {
+        "question": "What medical innovation came from Romania?",
+        "options": ["Penicillin", "Insulin", "Vaccines", "X-rays"],
+        "answer": "Insulin"
+      },
+      {
+        "question": "What is Romania's Palace of Parliament known for?",
+        "options": ["World's largest", "World's oldest", "World's smallest", "World's most expensive"],
+        "answer": "World's largest"
+      },
+      {
+        "question": "What technological innovation came from Romania?",
+        "options": ["Jet engine", "Light bulb", "Telephone", "Computer"],
+        "answer": "Jet engine"
+      },
+      {
+        "question": "What city had Europe's first electric street lamps?",
+        "options": ["Bucharest", "Timișoara", "Cluj-Napoca", "Constanța"],
+        "answer": "Timișoara"
+      },
+      {
+        "question": "What natural feature is Romania famous for?",
+        "options": ["Danube Delta", "Alps", "Sahara Desert", "Amazon Rainforest"],
+        "answer": "Danube Delta"
+      }
+    ]
+  }

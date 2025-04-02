@@ -1,0 +1,39 @@
+{
+    "Netherlands": [
+      {
+        "question": "What is the capital of the Netherlands?",
+        "options": ["Rotterdam", "Amsterdam", "The Hague", "Utrecht"],
+        "answer": "Amsterdam"
+      },
+      {
+        "question": "What is the Netherlands famous for?",
+        "options": ["Windmills", "Castles", "Mountains", "Deserts"],
+        "answer": "Windmills"
+      },
+      {
+        "question": "What is the ratio of bicycles to people in the Netherlands?",
+        "options": ["1:1", "1:2", "More bikes than people", "Fewer bikes than people"],
+        "answer": "More bikes than people"
+      },
+      {
+        "question": "What powers Dutch trains?",
+        "options": ["Coal", "Wind energy", "Solar power", "Nuclear energy"],
+        "answer": "Wind energy"
+      },
+      {
+        "question": "Which famous painter was Dutch?",
+        "options": ["Picasso", "Van Gogh", "Da Vinci", "Monet"],
+        "answer": "Van Gogh"
+      },
+      {
+        "question": "What percentage of the Netherlands lies below sea level?",
+        "options": ["10%", "33%", "50%", "75%"],
+        "answer": "33%"
+      },
+      {
+        "question": "Which famous cheese comes from the Netherlands?",
+        "options": ["Cheddar", "Gouda", "Parmesan", "Brie"],
+        "answer": "Gouda"
+      }
+    ]
+  }

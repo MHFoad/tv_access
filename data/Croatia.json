@@ -1,0 +1,39 @@
+{
+    "Croatia": [
+      {
+        "question": "What is the capital of Croatia?",
+        "options": ["Split", "Zagreb", "Dubrovnik", "Rijeka"],
+        "answer": "Zagreb"
+      },
+      {
+        "question": "What was invented in Croatia?",
+        "options": ["Necktie", "Jeans", "T-shirt", "Suit"],
+        "answer": "Necktie"
+      },
+      {
+        "question": "What is Croatia's smallest town?",
+        "options": ["Hum", "Zagreb", "Split", "Dubrovnik"],
+        "answer": "Hum"
+      },
+      {
+        "question": "How many islands does Croatia have?",
+        "options": ["About 100", "About 500", "Over 1,200", "None"],
+        "answer": "Over 1,200"
+      },
+      {
+        "question": "What famous TV show featured Dubrovnik?",
+        "options": ["Game of Thrones", "Breaking Bad", "Friends", "The Crown"],
+        "answer": "Game of Thrones"
+      },
+      {
+        "question": "What valuable natural resource is found in Croatia?",
+        "options": ["White truffles", "Diamonds", "Gold", "Oil"],
+        "answer": "White truffles"
+      },
+      {
+        "question": "What breed of dog originates from Croatia?",
+        "options": ["Dalmatian", "Labrador", "Poodle", "Beagle"],
+        "answer": "Dalmatian"
+      }
+    ]
+  }

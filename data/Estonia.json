@@ -1,0 +1,39 @@
+{
+    "Estonia": [
+      {
+        "question": "What is the capital of Estonia?",
+        "options": ["Tartu", "Tallinn", "Pärnu", "Narva"],
+        "answer": "Tallinn"
+      },
+      {
+        "question": "What communication software was invented in Estonia?",
+        "options": ["Zoom", "Skype", "WhatsApp", "Telegram"],
+        "answer": "Skype"
+      },
+      {
+        "question": "What percentage of Estonia is forest?",
+        "options": ["20%", "50%", "70%", "90%"],
+        "answer": "50%"
+      },
+      {
+        "question": "What is unique about Tallinn's public transport?",
+        "options": ["It's free", "It's underwater", "It's only buses", "It's only for tourists"],
+        "answer": "It's free"
+      },
+      {
+        "question": "What does Estonia have most of per area worldwide?",
+        "options": ["Castles", "Meteorite craters", "Lakes", "Islands"],
+        "answer": "Meteorite craters"
+      },
+      {
+        "question": "How did Estonia regain independence from USSR?",
+        "options": ["War", "Singing Revolution", "UN intervention", "Economic collapse"],
+        "answer": "Singing Revolution"
+      },
+      {
+        "question": "What remains in Estonian waters from WWII?",
+        "options": ["Shipwrecks", "Unexploded bombs", "Treasure", "Submarines"],
+        "answer": "Unexploded bombs"
+      }
+    ]
+  }

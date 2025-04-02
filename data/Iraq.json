@@ -1,0 +1,39 @@
+{
+    "Iraq": [
+      {
+        "question": "What is the capital of Iraq?",
+        "options": ["Mosul", "Baghdad", "Basra", "Erbil"],
+        "answer": "Baghdad"
+      },
+      {
+        "question": "What ancient civilization was in Iraq?",
+        "options": ["Mesopotamia", "Roman", "Greek", "Egyptian"],
+        "answer": "Mesopotamia"
+      },
+      {
+        "question": "What is Iraq's position on oil reserves?",
+        "options": ["None", "Second largest", "Smallest", "Only for domestic use"],
+        "answer": "Second largest"
+      },
+      {
+        "question": "What writing system developed in Iraq?",
+        "options": ["Cuneiform", "Hieroglyphics", "Alphabet", "Pictograms"],
+        "answer": "Cuneiform"
+      },
+      {
+        "question": "What biblical location is believed to be in Iraq?",
+        "options": ["Garden of Eden", "Mount Sinai", "Jerusalem", "Bethlehem"],
+        "answer": "Garden of Eden"
+      },
+      {
+        "question": "What rivers flow through Iraq?",
+        "options": ["Nile and Amazon", "Tigris and Euphrates", "Yangtze and Ganges", "Danube and Rhine"],
+        "answer": "Tigris and Euphrates"
+      },
+      {
+        "question": "What ancient city was in Iraq?",
+        "options": ["Babylon", "Athens", "Rome", "Persepolis"],
+        "answer": "Babylon"
+      }
+    ]
+  }

@@ -1,0 +1,39 @@
+{
+    "Norway": [
+      {
+        "question": "What is the capital of Norway?",
+        "options": ["Bergen", "Oslo", "Trondheim", "Stavanger"],
+        "answer": "Oslo"
+      },
+      {
+        "question": "What unusual honor was given to a penguin in Norway?",
+        "options": ["Mayor", "Knighted", "Professor", "Ambassador"],
+        "answer": "Knighted"
+      },
+      {
+        "question": "Where is it illegal to die in Norway?",
+        "options": ["Oslo", "Bergen", "Longyearbyen", "Tromsø"],
+        "answer": "Longyearbyen"
+      },
+      {
+        "question": "What natural phenomenon can be seen in Norway?",
+        "options": ["Northern Lights", "Tornadoes", "Monsoons", "Earthquakes"],
+        "answer": "Northern Lights"
+      },
+      {
+        "question": "What prize is awarded in Norway?",
+        "options": ["Nobel Peace Prize", "Pulitzer Prize", "Oscar", "Grammy"],
+        "answer": "Nobel Peace Prize"
+      },
+      {
+        "question": "What is Norway's famous scenic ferry called?",
+        "options": ["Viking Line", "Hurtigruten", "Color Line", "Fjord Line"],
+        "answer": "Hurtigruten"
+      },
+      {
+        "question": "How does Norway rank in global happiness?",
+        "options": ["Among the lowest", "Average", "Among the highest", "Not ranked"],
+        "answer": "Among the highest"
+      }
+    ]
+  }

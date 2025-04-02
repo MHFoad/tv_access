@@ -1,0 +1,39 @@
+{
+    "Greece": [
+      {
+        "question": "What is the capital of Greece?",
+        "options": ["Thessaloniki", "Athens", "Patras", "Heraklion"],
+        "answer": "Athens"
+      },
+      {
+        "question": "What ancient structure is in Athens?",
+        "options": ["Colosseum", "Acropolis", "Pyramids", "Stonehenge"],
+        "answer": "Acropolis"
+      },
+      {
+        "question": "What was invented in ancient Greece?",
+        "options": ["Democracy", "Printing press", "Electricity", "Steam engine"],
+        "answer": "Democracy"
+      },
+      {
+        "question": "How many islands does Greece have?",
+        "options": ["100", "1000", "6000", "10000"],
+        "answer": "6000"
+      },
+      {
+        "question": "What is special about the Greek alphabet?",
+        "options": ["Shortest", "Newest", "Oldest still in use", "Most complex"],
+        "answer": "Oldest still in use"
+      },
+      {
+        "question": "Which famous sporting event originated in Greece?",
+        "options": ["World Cup", "Olympic Games", "Super Bowl", "Wimbledon"],
+        "answer": "Olympic Games"
+      },
+      {
+        "question": "What does Greece have more of than any other country?",
+        "options": ["Airports", "Archaeological museums", "Stadiums", "Bridges"],
+        "answer": "Archaeological museums"
+      }
+    ]
+  }

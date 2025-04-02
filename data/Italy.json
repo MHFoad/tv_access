@@ -1,0 +1,39 @@
+{
+    "Italy": [
+      {
+        "question": "What is the capital of Italy?",
+        "options": ["Venice", "Milan", "Rome", "Florence"],
+        "answer": "Rome"
+      },
+      {
+        "question": "What is the shape of Italy often compared to?",
+        "options": ["A boot", "A hand", "A heart", "A hat"],
+        "answer": "A boot"
+      },
+      {
+        "question": "Which famous ancient structure is in Italy?",
+        "options": ["Colosseum", "Great Wall", "Pyramids", "Stonehenge"],
+        "answer": "Colosseum"
+      },
+      {
+        "question": "Which car brand originates from Italy?",
+        "options": ["Ferrari", "BMW", "Toyota", "Volkswagen"],
+        "answer": "Ferrari"
+      },
+      {
+        "question": "What was invented in Italy?",
+        "options": ["Telephone", "Eyeglasses", "Computer", "Television"],
+        "answer": "Eyeglasses"
+      },
+      {
+        "question": "How many UNESCO World Heritage sites does Italy have?",
+        "options": ["45", "58", "32", "67"],
+        "answer": "58"
+      },
+      {
+        "question": "Which famous artist was Italian?",
+        "options": ["Van Gogh", "Michelangelo", "Picasso", "Rembrandt"],
+        "answer": "Michelangelo"
+      }
+    ]
+  }

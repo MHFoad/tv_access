@@ -1,0 +1,39 @@
+{
+    "Belgium": [
+      {
+        "question": "What is the capital of Belgium?",
+        "options": ["Antwerp", "Brussels", "Ghent", "Bruges"],
+        "answer": "Brussels"
+      },
+      {
+        "question": "What is Belgium famous for?",
+        "options": ["Chocolate", "Pasta", "Sushi", "Curry"],
+        "answer": "Chocolate"
+      },
+      {
+        "question": "Which international organization is headquartered in Belgium?",
+        "options": ["UN", "EU", "NATO", "Both EU and NATO"],
+        "answer": "Both EU and NATO"
+      },
+      {
+        "question": "What is unique about Belgian voting?",
+        "options": ["Online only", "Compulsory", "Only for men", "Only for property owners"],
+        "answer": "Compulsory"
+      },
+      {
+        "question": "What is Belgium's record regarding castles?",
+        "options": ["None exist", "Most per square km", "Only modern castles", "Smallest castle"],
+        "answer": "Most per square km"
+      },
+      {
+        "question": "How are Belgian fries typically served?",
+        "options": ["With ketchup", "With mayo", "With vinegar", "With gravy"],
+        "answer": "With mayo"
+      },
+      {
+        "question": "Which famous comic character is Belgian?",
+        "options": ["Superman", "Tintin", "Batman", "Spider-Man"],
+        "answer": "Tintin"
+      }
+    ]
+  }
