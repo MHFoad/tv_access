@@ -1,0 +1,182 @@
+{
+  "France": {
+    "description": "France, in Western Europe, encompasses medieval cities, alpine villages, and Mediterranean beaches. The country (Population: 67.4 million) has Paris as its capital and uses the Euro currency. French is the official language across its 643,801 km² territory. Famous for the Eiffel Tower, Louvre Museum, and world-class wines from Bordeaux and Burgundy. Known as a global center for fashion (Chanel, Dior), art (Monet, Renoir), and cuisine (croissants, cheese). The French Riviera attracts celebrities to cities like Cannes and Saint-Tropez. France leads in aerospace technology (Airbus) and luxury goods (Louis Vuitton). The country has 45 UNESCO World Heritage sites, including Mont-Saint-Michel. Fun Fact: France produces over 1,000 types of cheese and has a law against food waste. Another Fun Fact: It's illegal to name a pig 'Napoleon' in France.",
+    "image": "france.jpg"
+  },
+  "Germany": {
+    "description": "Germany, in Central Europe, features fairy-tale castles, dense forests, and modern cities. The country (Population: 83.2 million) has Berlin as its capital and uses the Euro currency. German is spoken across its 357,022 km² territory. Famous for Oktoberfest, BMW automobiles, and the autobahn highway system. Known for precision engineering (Mercedes, Siemens) and classical music (Beethoven, Bach). The Black Forest and Bavarian Alps offer stunning natural landscapes. Germany has over 1,500 breweries producing world-renowned beers. The country is a leader in renewable energy and environmental technology. Fun Fact: There's no speed limit on most sections of the autobahn. Another Fun Fact: German bread culture includes over 3,000 varieties.",
+    "image": "germany.jpg"
+  },
+  "Italy": {
+    "description": "Italy, shaped like a boot, boasts stunning coastlines, rolling vineyards, and Alpine peaks. The country (Population: 60.4 million) has Rome as its capital and uses the Euro currency. Italian is spoken across its 301,340 km² territory. Famous for the Colosseum, pizza, and Renaissance art (Michelangelo, Da Vinci). Known for fashion (Gucci, Prada) and luxury sports cars (Ferrari, Lamborghini). The canals of Venice and cliffs of Amalfi Coast are iconic landmarks. Italy produces world-class wines (Chianti, Prosecco) and cheeses (Parmesan, Mozzarella). The country has more UNESCO sites (58) than any other nation. Fun Fact: Italians invented eyeglasses and banks. Another Fun Fact: The world's oldest university (Bologna) opened here in 1088.",
+    "image": "italy.jpg"
+  },
+  "Spain": {
+    "description": "Spain, on the Iberian Peninsula, offers diverse landscapes from Pyrenees mountains to Mediterranean beaches. The country (Population: 47.4 million) has Madrid as its capital and uses the Euro currency. Spanish is spoken across its 505,992 km² territory. Famous for flamenco dancing, paella, and Gaudí's Sagrada Família. Known for vibrant festivals (La Tomatina, Running of the Bulls) and football (Real Madrid). Produces world-class ham (Jamón ibérico) and wine (Rioja, Cava). The Alhambra palace and Park Güell showcase stunning architecture. Spain has over 8,000 km of coastline with beautiful beaches. Fun Fact: Spain has a midnight toast tradition eating 12 grapes at New Year's. Another Fun Fact: The world's oldest restaurant (1725) is in Madrid.",
+    "image": "spain.jpg"
+  },
+  "Sweden": {
+    "description": "Sweden, in Scandinavia, features vast forests, archipelagos, and Arctic landscapes. The country (Population: 10.4 million) has Stockholm as its capital and uses the Swedish Krona. Swedish is spoken across its 450,295 km² territory. Famous for IKEA, ABBA, and the Northern Lights (Aurora Borealis). Known for progressive social policies and sustainable living innovations. Stockholm's 14 islands combine medieval history with modern design. Produces iconic foods like meatballs, crispbread, and cinnamon buns. The midnight sun phenomenon occurs during Arctic summers. Sweden recycles 99% of its household waste. Fun Fact: Swedes celebrate midsummer by dancing around flower poles. Another Fun Fact: The country has a 'freedom to roam' law allowing access to all nature areas.",
+    "image": "sweden.jpg"
+  },
+  "Switzerland": {
+    "description": "Switzerland, in the heart of Europe, is renowned for its Alpine landscapes and precision craftsmanship. The country (Population: 8.7 million) has Bern as its capital and uses the Swiss Franc. Multiple languages are spoken across its 41,285 km² territory. Famous for Swiss watches (Rolex, Patek Philippe), chocolate (Lindt, Toblerone), and the Matterhorn. Known for neutrality, banking systems, and efficient public transport. The Swiss Alps attract skiers and mountaineers from around the world. Produces world-famous cheeses like Emmental and Gruyère. The country has four national languages (German, French, Italian, Romansh). Fun Fact: Swiss men keep their army weapons at home after military service. Another Fun Fact: The Swiss consume more chocolate per capita than any other nation.",
+    "image": "switzerland.jpg"
+  },
+  "Netherlands": {
+    "description": "The Netherlands, in northwestern Europe, is famous for its flat landscape and extensive canal systems. The country (Population: 17.5 million) has Amsterdam as its capital and uses the Euro currency. Dutch is spoken across its 41,543 km² territory. Famous for windmills, tulip fields, and Van Gogh's artwork. Known for progressive policies, cycling culture, and cheese markets (Gouda, Edam). The Dutch Golden Age produced master painters like Rembrandt and Vermeer. Rotterdam has Europe's largest port, while The Hague hosts international courts. About a third of the country lies below sea level. Fun Fact: The Netherlands has more bicycles than people. Another Fun Fact: Dutch trains run entirely on wind energy.",
+    "image": "netherlands.jpg"
+  },
+  "Norway": {
+    "description": "Norway, in Scandinavia, is celebrated for its dramatic fjords and Viking heritage. The country (Population: 5.4 million) has Oslo as its capital and uses the Norwegian Krone. Norwegian is spoken across its 385,207 km² territory. Famous for the Northern Lights, fjords like Geiranger, and Nobel Peace Prize. Known for oil wealth funding social welfare and stunning Arctic landscapes. The coastal Hurtigruten ferry offers spectacular scenic voyages. Norway consistently ranks as one of the world's happiest countries. The Lofoten Islands provide breathtaking views of the midnight sun. Fun Fact: Norway knighted a penguin (Sir Nils Olav). Another Fun Fact: It's illegal to die in the town of Longyearbyen due to permafrost.",
+    "image": "norway.jpg"
+  },
+  "Greece": {
+    "description": "Greece, at the crossroads of Europe and Asia, is the cradle of Western civilization. The country (Population: 10.7 million) has Athens as its capital and uses the Euro currency. Greek is spoken across its 131,957 km² territory. Famous for ancient ruins (Acropolis, Delphi), island paradises (Santorini, Mykonos), and olive oil. Known as the birthplace of democracy, philosophy, and the Olympic Games. Greek cuisine features feta cheese, moussaka, and ouzo. The country has over 6,000 islands in the Aegean and Ionian Seas. Byzantine churches and whitewashed villages dot the landscape. Fun Fact: Greece has more archaeological museums than any other country. Another Fun Fact: The Greek alphabet is the oldest still in use today.",
+    "image": "greece.jpg"
+  },
+  "Poland": {
+    "description": "Poland, in Central Europe, boasts a rich history and resilient cultural identity. The country (Population: 37.8 million) has Warsaw as its capital and uses the Złoty currency. Polish is spoken across its 312,696 km² territory. Famous for pierogi dumplings, Chopin's music, and medieval castles. Known for surviving WWII devastation and communist rule to emerge as an economic success. Kraków's old town and Wieliczka Salt Mine are UNESCO sites. The Białowieża Forest contains Europe's last primeval woodland. Polish scientists made groundbreaking contributions (Copernicus, Curie). Fun Fact: Poland has the world's largest castle (Malbork). Another Fun Fact: Polish bread is protected by traditional recipe laws.",
+    "image": "poland.jpg"
+  },
+  "Finland": {
+    "description": "Finland, in Northern Europe, is known as the 'Land of a Thousand Lakes' with over 188,000 lakes. The country (Population: 5.5 million) has Helsinki as its capital and uses the Euro. Finnish is spoken across its 338,455 km² territory. Famous for its education system, sauna culture, and being Santa Claus's official hometown. Known for Nokia phones, Angry Birds, and heavy metal music. Helsinki's design district showcases Scandinavian minimalism. The Northern Lights and midnight sun are spectacular natural phenomena. Finland consistently ranks among the world's happiest countries. Fun Fact: Finland has the most heavy metal bands per capita. Another Fun Fact: Wife-carrying is an actual national sport with annual championships.",
+    "image": "finland.jpg"
+  },
+  "Denmark": {
+    "description": "Denmark, in Scandinavia, is the birthplace of LEGO and the concept of hygge (coziness). The country (Population: 5.8 million) has Copenhagen as its capital and uses the Danish Krone. Danish is spoken across its 42,933 km² territory. Famous for its bicycle culture, colorful Nyhavn harbor, and Viking history. Known for the oldest monarchy in Europe and the iconic Little Mermaid statue. Denmark consists of the Jutland peninsula and over 400 islands. The country is a global leader in renewable energy and sustainability. Fun Fact: Denmark has the world's highest taxes but also highest happiness levels. Another Fun Fact: Burning foreign flags is illegal but burning the Danish flag isn't.",
+    "image": "denmark.jpg"
+  },
+  "United Kingdom": {
+    "description": "The United Kingdom, off Europe's northwestern coast, comprises England, Scotland, Wales and Northern Ireland. The country (Population: 67.7 million) has London as its capital and uses the Pound Sterling. English is spoken across its 242,495 km² territory. Famous for the Royal Family, Harry Potter, and landmarks like Big Ben. Known for its literary heritage (Shakespeare, Dickens) and music (The Beatles). The UK invented football, rugby, and cricket among other sports. Afternoon tea and fish & chips are cultural staples. Fun Fact: London has more Indian restaurants than Mumbai. Another Fun Fact: In Scotland, it's illegal to be drunk while in possession of a cow.",
+    "image": "uk.jpg"
+  },
+  "Estonia": {
+    "description": "Estonia, in the Baltic region, is one of Europe's most digitally advanced nations. The country (Population: 1.3 million) has Tallinn as its capital and uses the Euro. Estonian is spoken across its 45,339 km² territory. Famous for its medieval Old Town (UNESCO site) and being the birthplace of Skype. Known for e-residency programs and free public transport in Tallinn. The country has over 2,000 islands and is 50% forest. Estonia's singing revolution helped regain independence from USSR. Fun Fact: Estonia has the most meteorite craters per area worldwide. Another Fun Fact: There are over 1,000 unexploded WWII bombs in Estonian waters.",
+    "image": "estonia.jpg"
+  },
+  "Belgium": {
+    "description": "Belgium, in Western Europe, is famous for chocolates, waffles, and diverse beers. The country (Population: 11.6 million) has Brussels as its capital and uses the Euro. Dutch, French and German are spoken across its 30,528 km² territory. Famous as the headquarters of EU and NATO, and for comic strips like Tintin. Known for medieval cities like Bruges and battlefield of Waterloo. Belgian fries are considered the world's best (served with mayo). The country has three distinct regions with significant autonomy. Fun Fact: Belgium has the most castles per square kilometer. Another Fun Fact: Voting is compulsory for all Belgian citizens.",
+    "image": "belgium.jpg"
+  },
+  "Czech Republic": {
+    "description": "The Czech Republic, in Central Europe, is famous for Prague's stunning architecture. The country (Population: 10.7 million) has Prague as its capital and uses the Czech Koruna. Czech is spoken across its 78,871 km² territory. Famous for Pilsner beer (invented here) and Bohemian crystal. Known for having the highest beer consumption per capita worldwide. Prague Castle is the largest ancient castle complex globally. The Velvet Revolution ended communist rule peacefully. Fun Fact: Czechs invented contact lenses and sugar cubes. Another Fun Fact: There's a church decorated with 40,000 human bones.",
+    "image": "czech_republic.jpg"
+  },
+  "Portugal": {
+    "description": "Portugal, on the Iberian Peninsula, is Europe's westernmost country. The country (Population: 10.3 million) has Lisbon as its capital and uses the Euro. Portuguese is spoken across its 92,212 km² territory. Famous for port wine, pasteis de nata, and footballer Cristiano Ronaldo. Known for Age of Discovery explorers like Vasco da Gama. Lisbon's tram 28 winds through historic districts. The country has over 300 sunny days annually. Fun Fact: Portugal has the world's longest bridge (Vasco da Gama, 17km). Another Fun Fact: The University of Coimbra is among Europe's oldest (1290).",
+    "image": "portugal.jpg"
+  },
+  "Hungary": {
+    "description": "Hungary, in Central Europe, is famous for its thermal baths and paprika seasoning. The country (Population: 9.7 million) has Budapest as its capital and uses the Forint. Hungarian is spoken across its 93,028 km² territory. Famous for inventing the Rubik's Cube and ballpoint pen. Known for Budapest's stunning Parliament building and ruin pubs. The country has over 1,500 thermal springs. Hungarian is unrelated to most European languages. Fun Fact: Hungary has the world's highest VAT rate (27%). Another Fun Fact: Hungarian surnames come first like in East Asia.",
+    "image": "hungary.jpg"
+  },
+  "Austria": {
+    "description": "Austria, in Central Europe, is famous for the Alps and classical music. The country (Population: 9 million) has Vienna as its capital and uses the Euro. German is spoken across its 83,879 km² territory. Famous as Mozart's birthplace and for Wiener Schnitzel. Known for Vienna's coffee house culture and imperial palaces. The country invented snowboarding and modern skiing techniques. The Sound of Music was filmed in Salzburg. Fun Fact: Austria has the world's oldest zoo (1752). Another Fun Fact: The largest emerald (2,860 carats) is in Vienna.",
+    "image": "austria.jpg"
+  },
+  "Ireland": {
+    "description": "Ireland, an island in the North Atlantic, is famous for its green landscapes. The country (Population: 5 million) has Dublin as its capital and uses the Euro. English and Irish are spoken across its 70,273 km² territory. Famous for Guinness, St. Patrick's Day, and literary greats like Joyce. Known as the Emerald Isle with 40 shades of green. The country has the highest proportion of redheads worldwide. Fun Fact: Ireland has no snakes (never did). Another Fun Fact: The Irish drink more tea per capita than any nation except Turkey.",
+    "image": "ireland.jpg"
+  },
+  "Croatia": {
+    "description": "Croatia, on the Adriatic Sea, is famous for its stunning coastline. The country (Population: 4 million) has Zagreb as its capital and uses the Euro. Croatian is spoken across its 56,594 km² territory. Famous for Dubrovnik's walls (Game of Thrones) and Diocletian's Palace. Known for inventing the necktie and dalmatian dogs' origin. The country has over 1,200 islands along Dalmatian Coast. Fun Fact: Croatia has the world's smallest town (Hum, population 30). Another Fun Fact: Istrian white truffles are more valuable than gold.",
+    "image": "croatia.jpg"
+  },
+  "Luxembourg": {
+    "description": "Luxembourg, in Western Europe, is one of the world's richest countries. The country (Population: 634,000) has Luxembourg City as its capital and uses the Euro. Luxembourgish, French and German are spoken across its 2,586 km² territory. Famous for EU institutions and medieval castles. Known for having the highest GDP per capita worldwide. The country has three official languages and multicultural society. Fun Fact: Luxembourg has the world's highest minimum wage. Another Fun Fact: The Grand Duke must wait until age 25 to marry.",
+    "image": "luxembourg.jpg"
+  },
+  "San Marino": {
+    "description": "San Marino, in Italy, is the world's oldest republic (founded 301 AD). The country (Population: 34,000) has San Marino as its capital and uses the Euro. Italian is spoken across its 61 km² territory. Famous for its three fortress towers on Mount Titano. Known for colorful postage stamps coveted by collectors. The country is completely surrounded by Italy. Fun Fact: San Marino had the first elected communist government (1945). Another Fun Fact: It has more UNESCO sites per capita than any country.",
+    "image": "san_marino.jpg"
+  },
+  "Romania": {
+    "description": "Romania, in Southeast Europe, is famous for Transylvania and Dracula. The country (Population: 19 million) has Bucharest as its capital and uses the Leu. Romanian is spoken across its 238,397 km² territory. Famous for the Carpathian Mountains and Danube Delta. Known for the massive Palace of Parliament building. The country invented insulin and the jet engine. Fun Fact: Romania has the world's most beautiful bookstore. Another Fun Fact: Timișoara had Europe's first electric street lamps.",
+    "image": "romania.jpg"
+  },
+  "Bangladesh": {
+    "description": "Bangladesh, in South Asia, is the world's eighth-most populous country. The country (Population: 169.4 million) has Dhaka as its capital and uses the Taka. Bengali is spoken across its 148,460 km² territory. Famous for the Sundarbans mangrove forest (home to Bengal tigers) and longest natural sea beach (Cox's Bazar). Known for its vibrant textile industry and delicious cuisine featuring fish and rice. The country has over 700 rivers and experiences monsoon seasons. Bangladesh gained independence from Pakistan in 1971. Fun Fact: Bangladesh has the world's largest river delta (Ganges-Brahmaputra). Another Fun Fact: It's home to the historic city of Sonargaon, the ancient capital of Bengal.",
+    "image": "bangladesh.jpg"
+  },
+  "Japan": {
+    "description": "Japan, an East Asian island nation, blends ancient traditions with cutting-edge technology. The country (Population: 125.7 million) has Tokyo as its capital and uses the Yen. Japanese is spoken across its 377,975 km² territory. Famous for sushi, bullet trains, and cherry blossoms. Known for anime, samurai culture, and companies like Toyota and Sony. Japan consists of four main islands and thousands of smaller ones. The country has the world's oldest hereditary monarchy. Fun Fact: Japan has more than 5 million vending machines. Another Fun Fact: Square watermelons are grown for easier refrigerator storage.",
+    "image": "japan.jpg"
+  },
+  "Iraq": {
+    "description": "Iraq, in Western Asia, is known as the 'Cradle of Civilization'. The country (Population: 43.5 million) has Baghdad as its capital and uses the Iraqi Dinar. Arabic and Kurdish are spoken across its 438,317 km² territory. Famous for ancient Mesopotamia and the Tigris-Euphrates river system. Known for archaeological sites like Babylon and Ur. Iraq has the world's second-largest oil reserves. The country suffered through recent conflicts but retains rich cultural heritage. Fun Fact: Iraq's marshlands are believed to be the biblical Garden of Eden. Another Fun Fact: The world's first writing system (cuneiform) developed here.",
+    "image": "iraq.jpg"
+  },
+  "Iran": {
+    "description": "Iran, in Western Asia, is home to one of the world's oldest civilizations. The country (Population: 87.9 million) has Tehran as its capital and uses the Rial. Persian is spoken across its 1,648,195 km² territory. Famous for Persian poetry, intricate carpets, and ancient Persepolis. Known for its Islamic architecture and nuclear program. Iran has diverse landscapes from deserts to snow-capped mountains. The country was historically known as Persia until 1935. Fun Fact: Iran invented the world's first refrigerator (400 BC). Another Fun Fact: It's illegal to play Western music in public places.",
+    "image": "iran.jpg"
+  },
+  "Pakistan": {
+    "description": "Pakistan, in South Asia, is the world's fifth-most populous country. The country (Population: 242.9 million) has Islamabad as its capital and uses the Rupee. Urdu and English are spoken across its 881,913 km² territory. Famous for the K2 mountain and ancient Indus Valley civilization. Known for spicy cuisine featuring biryani and kebabs. Pakistan has the world's largest irrigation system. The country shares borders with four nations including China and India. Fun Fact: Pakistan has the world's highest polo field (Shandur Pass). Another Fun Fact: The world's second-saltiest water is found here (Khewra Salt Mine).",
+    "image": "pakistan.jpg"
+  },
+  "India": {
+    "description": "India, in South Asia, is the world's largest democracy and second-most populous country. The country (Population: 1.428 billion) has New Delhi as its capital and uses the Rupee. Hindi and English are spoken across its 3,287,263 km² territory. Famous for the Taj Mahal, Bollywood, and diverse cuisine. Known for yoga, Ayurveda, and IT industry. India has 22 official languages and thousands of dialects. The country launched its first space mission in 1975. Fun Fact: India has the world's largest family (a man with 39 wives). Another Fun Fact: The game of snakes and ladders originated here.",
+    "image": "india.jpg"
+  },
+  "Singapore": {
+    "description": "Singapore, a Southeast Asian city-state, is a global financial hub. The country (Population: 5.9 million) has Singapore as its capital and uses the Dollar. English, Malay, Mandarin and Tamil are spoken across its 728 km² territory. Famous for Marina Bay Sands, clean streets, and hawker food. Known for strict laws and efficient governance. Singapore has one of the world's busiest ports. The country transformed from third-world to first-world in one generation. Fun Fact: Chewing gum is banned in Singapore (except medicinal). Another Fun Fact: Singapore has the world's first night zoo.",
+    "image": "singapore.jpg"
+  },
+  "Afghanistan": {
+    "description": "Afghanistan, in Central Asia, is known as the 'Graveyard of Empires'. The country (Population: 40.1 million) has Kabul as its capital and uses the Afghani. Pashto and Dari are spoken across its 652,864 km² territory. Famous for the Hindu Kush mountains and ancient trade routes. Known for its recent conflicts and Taliban rule. Afghanistan has untapped mineral wealth worth trillions. The country was part of the ancient Silk Road. Fun Fact: Afghanistan's national game is buzkashi (horse polo with goat carcass). Another Fun Fact: The world's first oil paintings were found here (7th century).",
+    "image": "afghanistan.jpg"
+  },
+  "Thailand": {
+    "description": "Thailand, in Southeast Asia, is known as the 'Land of Smiles'. The country (Population: 71.6 million) has Bangkok as its capital and uses the Baht. Thai is spoken across its 513,120 km² territory. Famous for Buddhist temples, tropical beaches, and spicy cuisine. Known for Muay Thai boxing and full moon parties. Thailand was never colonized by European powers. The country has over 40,000 Buddhist temples. Fun Fact: Thailand has the world's largest solid gold Buddha (5.5 tons). Another Fun Fact: It's illegal to step on Thai currency (considered disrespectful).",
+    "image": "thailand.jpg"
+  },
+  "Turkey": {
+    "description": "Turkey, straddling Europe and Asia, is a cultural crossroads. The country (Population: 85.3 million) has Ankara as its capital and uses the Lira. Turkish is spoken across its 783,356 km² territory. Famous for Istanbul's Hagia Sophia and Cappadocia's fairy chimneys. Known for kebabs, baklava, and Turkish delight. Turkey has both Mediterranean and Black Sea coastlines. The country was the center of the Ottoman Empire. Fun Fact: Turkey introduced tulips to the Netherlands. Another Fun Fact: Santa Claus (St. Nicholas) was born in modern-day Turkey.",
+    "image": "turkey.jpg"
+  },
+  "Saudi Arabia": {
+    "description": "Saudi Arabia, in the Middle East, is the birthplace of Islam. The country (Population: 36.9 million) has Riyadh as its capital and uses the Riyal. Arabic is spoken across its 2,149,690 km² territory. Famous for Mecca and Medina, Islam's holiest cities. Known for vast oil reserves and desert landscapes. Saudi Arabia has no rivers and relies on desalination. The country only began issuing tourist visas in 2019. Fun Fact: Saudi Arabia is building a 170km-long linear city (The Line). Another Fun Fact: It's illegal to publicly celebrate Valentine's Day.",
+    "image": "saudi_arabia.jpg"
+  },
+  "Nepal": {
+    "description": "Nepal, in the Himalayas, is home to Mount Everest. The country (Population: 30.7 million) has Kathmandu as its capital and uses the Rupee. Nepali is spoken across its 147,516 km² territory. Famous for Himalayan trekking and birthplace of Buddha. Known for Gurkha soldiers and colorful festivals. Nepal has eight of the world's ten highest mountains. The country changed from monarchy to republic in 2008. Fun Fact: Nepal has the world's only non-rectangular flag. Another Fun Fact: Yeti legends originate from Nepalese Himalayas.",
+    "image": "nepal.jpg"
+  },
+  "United Arab Emirates": {
+    "description": "The UAE, in the Middle East, is a federation of seven emirates. The country (Population: 9.9 million) has Abu Dhabi as its capital and uses the Dirham. Arabic is spoken across its 83,600 km² territory. Famous for Dubai's Burj Khalifa and extravagant projects. Known for oil wealth and luxury shopping. The UAE has the world's tallest building and largest mall. Only 11% of residents are Emirati citizens. Fun Fact: The UAE has indoor ski slopes in the desert. Another Fun Fact: It rains so rarely that children sing rain songs when it does.",
+    "image": "uae.jpg"
+  },
+  "Oman": {
+    "description": "Oman, on the Arabian Peninsula, is known for frankincense and deserts. The country (Population: 5.1 million) has Muscat as its capital and uses the Rial. Arabic is spoken across its 309,500 km² territory. Famous for historic forts and the Rub' al Khali desert. Known for its independent foreign policy and maritime history. Oman was a major trading nation for centuries. The country has both mountains and coastline. Fun Fact: Oman's Sultan Qaboos Mosque chandelier has 600,000 crystals. Another Fun Fact: It's one of the hottest places on Earth (regularly over 50°C).",
+    "image": "oman.jpg"
+  },
+  "Bahrain": {
+    "description": "Bahrain, an island nation in the Persian Gulf, is small but wealthy. The country (Population: 1.5 million) has Manama as its capital and uses the Dinar. Arabic is spoken across its 765 km² territory. Famous for Formula 1 racing and pearl diving history. Known for its financial sector and relaxed social norms. Bahrain was the first Gulf state to discover oil. The country connects to Saudi Arabia via causeway. Fun Fact: Bahrain has the world's largest underwater theme park. Another Fun Fact: The Tree of Life stands alone in desert for 400 years.",
+    "image": "bahrain.jpg"
+  },
+  "Kuwait": {
+    "description": "Kuwait, in the Middle East, has one of the world's strongest currencies. The country (Population: 4.3 million) has Kuwait City as its capital and uses the Dinar. Arabic is spoken across its 17,818 km² territory. Famous for oil reserves and the Liberation Tower. Known for its hot summers and modern architecture. Kuwait was invaded by Iraq in 1990 (Gulf War). The country has no natural freshwater sources. Fun Fact: Kuwait has the world's sixth-largest oil reserves. Another Fun Fact: It's illegal to drink alcohol or import pork.",
+    "image": "kuwait.jpg"
+  },
+  "Maldives": {
+    "description": "The Maldives, in the Indian Ocean, is the world's flattest country. The country (Population: 521,000) has Malé as its capital and uses the Rufiyaa. Dhivehi is spoken across its 298 km² territory. Famous for overwater bungalows and coral atolls. Known for luxury tourism and marine biodiversity. The Maldives has Asia's smallest Muslim population. The country could disappear due to rising sea levels. Fun Fact: Maldives has the world's lowest high point (2.4m). Another Fun Fact: Friday and Saturday make up the weekend here.",
+    "image": "maldives.jpg"
+  },
+  "Bhutan": {
+    "description": "Bhutan, in the Himalayas, measures Gross National Happiness. The country (Population: 787,000) has Thimphu as its capital and uses the Ngultrum. Dzongkha is spoken across its 38,394 km² territory. Famous for Tiger's Nest monastery and pristine nature. Known for its carbon-negative status and unique culture. Bhutan limits tourism to protect its environment. The country only got television in 1999. Fun Fact: Bhutan is the world's only carbon-negative country. Another Fun Fact: Plastic bags are completely banned nationwide.",
+    "image": "bhutan.jpg"
+  },
+  "State of Palestine": {
+    "description": "Palestine, in the Middle East, is a partially recognized state. The country (Population: 5.4 million) has Ramallah as its administrative capital and uses the Shekel. Arabic is spoken across its 6,220 km² territory. Famous for religious sites in Jerusalem and Bethlehem. Known for its ongoing conflict with Israel. Palestine's status remains internationally disputed. The West Bank and Gaza are geographically separated. Fun Fact: Palestine has the world's oldest continuously inhabited city (Jericho). Another Fun Fact: The Dead Sea is Earth's lowest land elevation (-430m).",
+    "image": "palestine.jpg"
+  },
+  "Syria": {
+    "description": "Syria, in Western Asia, has suffered recent devastating conflicts. The country (Population: 22.1 million) has Damascus as its capital and uses the Pound. Arabic is spoken across its 185,180 km² territory. Famous for ancient cities like Palmyra and Aleppo. Known as the cradle of civilizations and alphabet origin. Syria was part of the Fertile Crescent in antiquity. The country's ongoing civil war began in 2011. Fun Fact: Damascus is the world's oldest continuously inhabited capital. Another Fun Fact: Syria invented the musical scale system.",
+    "image": "syria.jpg"
+  },
+  "Malaysia": {
+    "description": "Malaysia, in Southeast Asia, is known for its multicultural society. The country (Population: 33.6 million) has Kuala Lumpur as its capital and uses the Ringgit. Malay is spoken across its 330,803 km² territory. Famous for Petronas Towers and diverse cuisine. Known for rainforests, beaches, and Borneo wildlife. Malaysia has three major ethnic groups living harmoniously. The country is a major producer of palm oil. Fun Fact: Malaysia has the world's largest roundabout (Putrajaya, 3.4km). Another Fun Fact: It's illegal to dance the lambada in public.",
+    "image": "malaysia.jpg"
+  }
+}
