@@ -178,5 +178,9 @@
   "Malaysia": {
     "description": "Malaysia, in Southeast Asia, is known for its multicultural society. The country (Population: 33.6 million) has Kuala Lumpur as its capital and uses the Ringgit. Malay is spoken across its 330,803 km² territory. Famous for Petronas Towers and diverse cuisine. Known for rainforests, beaches, and Borneo wildlife. Malaysia has three major ethnic groups living harmoniously. The country is a major producer of palm oil. Fun Fact: Malaysia has the world's largest roundabout (Putrajaya, 3.4km). Another Fun Fact: It's illegal to dance the lambada in public.",
     "image": "malaysia.jpg"
+  },
+"China": {
+    "description": "China, in East Asia, is the world's most populous country and second-largest by land area. The country (Population: 1.412 billion) has Beijing as its capital and uses the Renminbi (Yuan) currency. Mandarin Chinese is spoken across its 9,596,961 km² territory. Famous for the Great Wall, Terracotta Army, and ancient civilization dating back 5,000 years. Known as the world's manufacturing hub and technological powerhouse. China has 56 recognized ethnic groups with diverse cultures. The country contains megacities like Shanghai alongside rural villages. Fun Fact: China invented paper, gunpowder, compass, and printing. Another Fun Fact: The Chinese railway network could loop around Earth twice.",
+    "image": "china.jpg"
   }
 }
